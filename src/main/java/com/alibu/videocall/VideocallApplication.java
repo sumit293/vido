@@ -14,7 +14,7 @@ public class VideocallApplication {
 		SpringApplication.run(VideocallApplication.class, args);
 	}
 
-
+// time stamp 14 : 11s
 	@Bean
 	public CommandLineRunner commandLineRunner(UserService service)
 	{
